@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.btn {
+  @apply bg-primary text-white text-xl border-none outline-none py-2 px-4 rounded-[4px];
+}
+
+.wrapper {
+  @apply container mx-auto md:max-w-[970px];
+}
