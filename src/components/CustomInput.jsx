@@ -1,6 +1,6 @@
 /* eslint-disable react/prop-types */
 export const CustomInput = (props) => {
-  const { type, name, required, placeholder } = props;
+  const { name, placeholder, type, required } = props;
   return (
     <input
       type={type}

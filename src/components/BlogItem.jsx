@@ -1,6 +1,6 @@
 /* eslint-disable react/prop-types */
-export const BlogItem = (props) => {
-  const { image, title, subtitle } = props;
+export const BlogItem = ({ post }) => {
+  const { image, title, subtitle } = post;
   return (
     <section className="bg-white flex gap-8 items-center md:flex-row flex-col">
       <img src={image} alt={title} className="max-w-[455px] w-full" />

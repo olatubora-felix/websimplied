@@ -31,4 +31,12 @@ export const posts = [
       "https://courses.webdevsimplified.com/content-assets/public/eyJhbGciOiJIUzI1NiJ9.eyJvYmplY3Rfa2V5IjoicGU1YjE0cmlhM3hmM3hrZjd2cXdlenVoYWI2bCIsImRvbWFpbiI6ImNvdXJzZXMud2ViZGV2c2ltcGxpZmllZC5jb20ifQ.scKsZJTF7lh6KNHXcXESkNZdt5FrDd43NsjTBi9xWUc",
     id: 4,
   },
+  {
+    title: "Next.js Simplified",
+    subtitle:
+      " Learn how to master all of Next.js's complex features like caching, routing, data management so you can build your dream project.",
+    image:
+      "https://courses.webdevsimplified.com/content-assets/public/eyJhbGciOiJIUzI1NiJ9.eyJvYmplY3Rfa2V5IjoicGU1YjE0cmlhM3hmM3hrZjd2cXdlenVoYWI2bCIsImRvbWFpbiI6ImNvdXJzZXMud2ViZGV2c2ltcGxpZmllZC5jb20ifQ.scKsZJTF7lh6KNHXcXESkNZdt5FrDd43NsjTBi9xWUc",
+    id: 5,
+  },
 ];

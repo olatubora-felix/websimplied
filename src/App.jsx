@@ -2,7 +2,7 @@ import BlogArticles from "./components/BlogArticles";
 import ChatBot from "./components/ChatBot";
 import Footer from "./components/Footer";
 import Header from "./components/Header";
-import HeroSection from "./components/HeroSection";
+import HeroSection from "./components/hero/HeroSection";
 
 const App = () => {
   return (
